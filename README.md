@@ -8,7 +8,7 @@ Meu nome é william vasconcelos, sou programador Front end, estou desenvolvendo 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-image"/>
 
-<a href="www.linkedin.com/in/william-vasconcelos-b60268289">
+<a href="www.linkedin.com/in/william-vasconcelos-b60268289/" >
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/willl.oliver_sep/?next=%2F">
